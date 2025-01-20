@@ -1,5 +1,5 @@
 # fashion-mnist-project
-A Pytorch CNN Model trained on Fashion-MNIST
+A Pytorch Convolution Neural Network Model trained on Fashion-MNIST
 
 ## Fashion-MNIST
 
